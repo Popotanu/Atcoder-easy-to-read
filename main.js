@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         AtCoder easy-to-read statements
-// @namespace    atcoder_easy_to_read_statements
+// @name         AtCoder easy-to-read
+// @namespace    atcoder_easy_to_read
 // @version      0.1
 // @description  Take your pick of a font for question/editorials.
 // @author       popotanu
@@ -34,7 +34,7 @@ const pushFavoriteFontTo = (family, favorite) => {
   return `${favorite} ${family}`;
 };
 
-const NAME = `AtCoder easy-to-read statements`;
+const NAME = `AtCoder easy-to-read`;
 const FavoriteFont = "BIZ UDPGothic";
 
 (function () {
