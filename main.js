@@ -16,7 +16,6 @@ const contestMainSelector = () => "#task-statement";
 const editorialMainSelector = () => "#main-container .row .col-sm-12:not(#contest-nav-tabs) div";
 const mainSelector = (pathname) => {
   const type = pathname.split("/")[3];
-  console.log(type);
   switch (type) {
     case "tasks":
       return contestMainSelector();
