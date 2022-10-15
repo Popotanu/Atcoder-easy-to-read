@@ -6,6 +6,6 @@
 - 次のフォントを変更するよ
   - 問題文
   - 解説
-- TemplerMonkey用スクリプトだよ
+- TamplerMonkey用スクリプトだよ
 - WIPだよ
 
